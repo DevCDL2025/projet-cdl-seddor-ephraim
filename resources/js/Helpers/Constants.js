@@ -1,0 +1,13 @@
+
+export const DEPARTMENTS_BADGE_COLOR = "cyan"
+export const POSITIONS_BADGE_COLOR = "amber darken-1 black-text"
+export const ROLES_BADGE_COLOR = "light-blue"
+export const AGENCIES_BADGE_COLOR = "pink"
+export const FEE_TYPES_BADGE_COLOR = "amber black-text"
+export const CURRENCIES_BADGE_COLOR = "light-blue white-text"
+export const DEPARTURE_CURRENCIES_BADGE_COLOR = "purple white-text"
+export const COUNT_BADGE_COLOR = "orange lighten-2 black-text"
+export const DEPARTMENT_TYPES_BADGE_COLOR = "cyan darken-2 white-text"
+export const DEPARTURE_CITIES_BADGE_COLOR = "orange darken-1 white-text"
+export const ARRIVAL_CITIES_BADGE_COLOR = "indigo darken-2 white-text"
+export const TRANSACTIONS_TYPES_BADGE_COLOR = "teal darken-1 white-text"

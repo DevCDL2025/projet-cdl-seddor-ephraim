@@ -1,0 +1,68 @@
+.app-orange {
+    color: #42a5f6;
+}
+
+.bg-app-orange {
+    background-color: #42a5f6;
+}
+
+.bg-custom-dark {
+    background-color: #1f2937 !important;
+}
+
+.btn-maincolor:hover{
+    color:#42a5f6 !important;
+}
+
+.border-app-orange {
+    border: 2px solid #42a5f6 !important;
+}
+
+.fnt-bold {
+    font-weight: bold !important;
+}
+
+.txt-capitalize {
+    text-transform: capitalize !important;
+}
+
+.txt-uppercase {
+    text-transform: uppercase !important;
+}
+
+.field-error {
+    border: 2px solid #F44336 !important;
+}
+
+.form-error {
+    color: #F44336 !important;
+    font-weight: 900 !important;
+    text-align: left;
+}
+
+.form-error-notice {
+    margin: 1rem 0;
+    padding: .5rem 0;
+    font-weight: 500 !important;
+    border-radius: .25rem !important;
+}
+
+.loader {
+    width: 15px;
+    height: 15px;
+    border: 2px solid #FFF;
+    border-bottom-color: #000;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+}
+
+@keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
